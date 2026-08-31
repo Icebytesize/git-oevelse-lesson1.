@@ -1,2 +1,5 @@
 ﻿Console.WriteLine("Hej verden, dette er min git øvelse");
-Console.readLine();
+Console.ReadLine();
+
+Console.WriteLine("Tryk på en tast for at afslutte...");
+Console.ReadLine();
