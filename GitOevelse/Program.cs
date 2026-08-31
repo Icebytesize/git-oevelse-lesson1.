@@ -11,3 +11,5 @@ Console.ReadLine();
 Console.WriteLine("Hvad er dit navn: ");
 string navn = Console.ReadLine();
 Console.WriteLine("Hej " + navn + ", nice to meet you!");
+// Grundet til at lave branches, er at teste ændiringer uden at ødelægge master branchen.
+// Fordelen ved dette er at teste nye ting, som kan være farlige for master branchen, og derfor kan man teste i sine branches 
